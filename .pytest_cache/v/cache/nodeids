@@ -1,0 +1,6 @@
+[
+  "niv/test/test_module.py::TestModules::()::test_1_plus_1",
+  "niv/test/test_module.py::TestModules::()::test_load_data",
+  "niv/test/test_module.py::TestModules::()::test_predict",
+  "niv/test/test_module.py::TestModules::()::test_fail"
+]
